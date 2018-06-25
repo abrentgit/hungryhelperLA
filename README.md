@@ -1,6 +1,6 @@
 PROJECT: Hungry Helper Los Angeles
 
-Live Link: https://repl.it/@kokowaves349/UpdatedHungryHelper
+Live Link: https://updatedhungryhelper--kokowaves349.repl.co/
 
 SUMMARY: 
 
