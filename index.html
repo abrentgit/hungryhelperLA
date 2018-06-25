@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
@@ -12,22 +12,22 @@
     <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|Oswald" rel="stylesheet">
   </head>
     <header role="banner"</header>
-    <h1 id="title">HUNGRY HELPER L.A.</h1>
-    <img role="logo" src="https://www.shareicon.net/data/512x512/2016/01/31/711856_food_512x512.png" height=200px alt="Utensils">
+    <h1 class="title">HUNGRY HELPER L.A.</h1>
+    <img src="https://www.shareicon.net/data/512x512/2016/01/31/711856_food_512x512.png" height=200px alt="dinner utensils logo">
   
   <body>
     <div class="container">
       <p> What are you in the mood for?<p>
-        <form class="js-search-form">
+        <form role="search" class="js-search-form">
         <label for="query"</label>
         <input type="text" class="js-query" required/>
         <button type="submit">Submit</button>
         </form>
-
-        <main role="main"
-        class="js-search-results"</main>
     </div>
+     <main role="main">
+       <div class="js-search-results">
+       </div>
+    </main>
   </body>
-  
 </html>
 
