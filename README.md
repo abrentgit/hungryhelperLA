@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+PROJECT: Hungry Helper Los Angeles
 
-You can use the [editor on GitHub](https://github.com/abrentgit/hungryhelperLA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Live Link: https://repl.it/@kokowaves349/UpdatedHungryHelper
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SUMMARY: 
 
-### Markdown
+This is an app that uses the Zomato API to help users based in the Los Angeles, California area find suggested places to eat.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A user can submit a query and will be given 5 locations by the Zomato API. 
+Each location has the name of the establishment, the type of cuisine served, address information, and Zomato ratings.
 
-```markdown
-Syntax highlighted code block
+The ratings are based on a high score between 1.0-5.0, with 5.0 being the highest and 1.0 being the lowest. 
 
-# Header 1
-## Header 2
-### Header 3
+Each rating also is accompanied by a rating of Excellent, Very Good, Good, and None for establishments without enough information for a rating. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abrentgit/hungryhelperLA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TECHNOLOGY USED: 
+HTML5, CSS, JAVASCRIPT, jQuery
