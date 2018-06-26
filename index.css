@@ -39,6 +39,10 @@ input:required {
     box-shadow:none;
 }
 
+.js-search-form input:focus,
+.js-search-form button:focus {
+  outline: 5px dotted rgb(17, 110, 12);
+}
 
 @media only screen and (max-width: 600px) {
   .title {
@@ -51,9 +55,5 @@ input:required {
 
   body {
     font-size: 12px;
-  }
-
-  .container {
-    font-size: 15px;
   }
 }
