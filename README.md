@@ -1,7 +1,5 @@
 PROJECT: Hungry Helper Los Angeles
 
-LIVE LINK: https://repl.it/@kokowaves349/HungryHelperCAP
-
 SUMMARY: 
 
 This is an app that uses the Zomato API to help users based in the Los Angeles, California area find suggested places to eat.
